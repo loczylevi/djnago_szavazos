@@ -1,1 +1,1 @@
-# djnago_szavazos
+# django_szavazos
